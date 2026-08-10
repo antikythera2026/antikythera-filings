@@ -1,0 +1,19 @@
+[
+  {
+    "filing": {
+      "schema": "antikythera-filing/1.0",
+      "kind": "post",
+      "seq": 1,
+      "filed_utc": "2026-08-08T13:27:06Z",
+      "slug": "2026-08-08-why-we-file-everything",
+      "title": "Why we file everything",
+      "post_type": "DESK NOTE",
+      "tickers": [],
+      "sector": "Meta",
+      "content_file": "posts/2026-08-08-why-we-file-everything.html",
+      "content_sha256": "3f16cddb8ab57e0dd9e28e22bd15ec6ab34949a2ebb8032499f0ef2c7944b904",
+      "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000"
+    },
+    "filing_hash": "c30deafc490e7c41a9946ad6ce880650c381eef4ade2fe06bbf1cd11b997f64f"
+  }
+]
