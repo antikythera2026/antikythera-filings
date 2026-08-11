@@ -95,5 +95,48 @@
       "prev_hash": "5df124f23e3df2647240055efcfbbe16cdb28fdb88bba82e9e9bc23f18116631"
     },
     "filing_hash": "28a7c40cf556a5d16ac7a945e61021e736096918f21cab9103f3c0d49206cd31"
+  },
+  {
+    "filing": {
+      "schema": "antikythera-filing/1.1",
+      "kind": "post",
+      "seq": 5,
+      "filed_utc": "2026-08-11T22:34:37Z",
+      "slug": "2026-08-11-compute-rv-gpu-residual-value-index-print-2026-08-11",
+      "title": "COMPUTE-RV — GPU residual value index — print 2026-08-11",
+      "post_type": "INDEX PRINT",
+      "tickers": [
+        "AMZN",
+        "BX",
+        "CRWV",
+        "GOOGL",
+        "IREN",
+        "META",
+        "MSFT",
+        "NBIS",
+        "NVDA",
+        "ORCL"
+      ],
+      "sector": "AI Infrastructure",
+      "documents": [
+        {
+          "label": "REPORT",
+          "file": "posts/2026-08-11-compute-rv-gpu-residual-value-index-print-2026-08-11/report.html",
+          "sha256": "4c4bc20bbd58ca6cd614275119240a7ca0df813ca3d669194da4383adf6495f9"
+        },
+        {
+          "label": "DOMINO",
+          "file": "posts/2026-08-11-compute-rv-gpu-residual-value-index-print-2026-08-11/domino.html",
+          "sha256": "5e067ea985e2a7ec2ac3a33899a764be959f155429648f885b7d988165abf5a8"
+        },
+        {
+          "label": "DATA",
+          "file": "posts/2026-08-11-compute-rv-gpu-residual-value-index-print-2026-08-11/data.html",
+          "sha256": "f6b3c2e48fa5fdf68ec9563bf0a40e2e1ca5aa1e1af19beed147bf17f5aa42f2"
+        }
+      ],
+      "prev_hash": "28a7c40cf556a5d16ac7a945e61021e736096918f21cab9103f3c0d49206cd31"
+    },
+    "filing_hash": "ee12f45573eb6841440087b36af88b64f6d89522c0bc1134ec1fbb291244d288"
   }
 ]

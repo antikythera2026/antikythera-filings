@@ -14,5 +14,21 @@
     "method": "ots",
     "ref": "data\\anchors\\chain-28a7c40cf556.ots",
     "note": ""
+  },
+  {
+    "anchored_utc": "2026-08-11T12:48:29Z",
+    "head_hash": "28a7c40cf556a5d16ac7a945e61021e736096918f21cab9103f3c0d49206cd31",
+    "head_seq": 4,
+    "method": "github",
+    "ref": "https://github.com/antikythera2026/antikythera-filings/commit/265763de67928653dc4a6555e6218867d6df0098",
+    "note": "public filings repo"
+  },
+  {
+    "anchored_utc": "2026-08-11T23:02:38Z",
+    "head_hash": "ee12f45573eb6841440087b36af88b64f6d89522c0bc1134ec1fbb291244d288",
+    "head_seq": 5,
+    "method": "ots",
+    "ref": "data/anchors/chain-ee12f45573eb.ots",
+    "note": ""
   }
 ]
