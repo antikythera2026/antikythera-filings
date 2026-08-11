@@ -15,5 +15,85 @@
       "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000"
     },
     "filing_hash": "c30deafc490e7c41a9946ad6ce880650c381eef4ade2fe06bbf1cd11b997f64f"
+  },
+  {
+    "filing": {
+      "schema": "antikythera-filing/1.1",
+      "kind": "post",
+      "seq": 2,
+      "filed_utc": "2026-08-11T12:17:26Z",
+      "slug": "2026-08-11-compuyte-rv-gpu-residual-value-index-print-2026-08-11",
+      "title": "COMPUYTE-RV — GPU residual value index — print 2026-08-11",
+      "post_type": "INDEX PRINT",
+      "tickers": [
+        "NVDA"
+      ],
+      "sector": "AI Infrastructure",
+      "documents": [
+        {
+          "label": "REPORT",
+          "file": "posts/2026-08-11-compuyte-rv-gpu-residual-value-index-print-2026-08-11/report.html",
+          "sha256": "2705c93ab1f848b133a1862c7ea4cdc8b0d5d2ea0e3a7897ea06c606585a3b4a"
+        },
+        {
+          "label": "DATA",
+          "file": "posts/2026-08-11-compuyte-rv-gpu-residual-value-index-print-2026-08-11/data.html",
+          "sha256": "27092486a2606287e1337d61e63e2916dc95b6a116177a2c5151ff698efcfe8e"
+        }
+      ],
+      "prev_hash": "c30deafc490e7c41a9946ad6ce880650c381eef4ade2fe06bbf1cd11b997f64f"
+    },
+    "filing_hash": "57316fe97c988238821ffed27838690a6b4b9fac7921c180e89ec659ab8192e0"
+  },
+  {
+    "filing": {
+      "schema": "antikythera-filing/1.1",
+      "kind": "post",
+      "seq": 3,
+      "filed_utc": "2026-08-11T12:44:42Z",
+      "slug": "2026-08-11-palantir-pltr-the-company-you-can-never-buy",
+      "title": "Palantir (PLTR): the company you can never buy",
+      "post_type": "THESIS",
+      "tickers": [
+        "PLTR"
+      ],
+      "sector": "AI Software",
+      "documents": [
+        {
+          "label": "ELVIS",
+          "file": "posts/2026-08-11-palantir-pltr-the-company-you-can-never-buy/elvis.html",
+          "sha256": "67bde7e3fc77641e21eca2639e0ad9e46b7cd6c31600a1448a612bf5a109f521"
+        },
+        {
+          "label": "TUPAC",
+          "file": "posts/2026-08-11-palantir-pltr-the-company-you-can-never-buy/tupac.html",
+          "sha256": "d8a6a68ab8fb1382c4cd175cacf9c6a8620e2b5d18b530101caa87e476acb82c"
+        },
+        {
+          "label": "FRANK",
+          "file": "posts/2026-08-11-palantir-pltr-the-company-you-can-never-buy/frank.html",
+          "sha256": "642bbd01bfd3900d4344f0b8729cd1d742979cb614e5038d71d9f3a2038c55da"
+        }
+      ],
+      "prev_hash": "57316fe97c988238821ffed27838690a6b4b9fac7921c180e89ec659ab8192e0"
+    },
+    "filing_hash": "5df124f23e3df2647240055efcfbbe16cdb28fdb88bba82e9e9bc23f18116631"
+  },
+  {
+    "filing": {
+      "schema": "antikythera-filing/1.0",
+      "kind": "call",
+      "seq": 4,
+      "filed_utc": "2026-08-11T12:45:07Z",
+      "ticker": "PLTR",
+      "action": "BUY",
+      "price": 175.23,
+      "currency": "USD",
+      "horizon": "3y",
+      "thesis": "Scenario-weighted PT 284.09 (+62.1%): 25% bear 144.27 / 55% base 307.53 / 20% bull 394.38; payoff skew 7.1x, fortress net cash; confidence 4/5",
+      "post_slug": "2026-08-11-palantir-pltr-the-company-you-can-never-buy",
+      "prev_hash": "5df124f23e3df2647240055efcfbbe16cdb28fdb88bba82e9e9bc23f18116631"
+    },
+    "filing_hash": "28a7c40cf556a5d16ac7a945e61021e736096918f21cab9103f3c0d49206cd31"
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "anchored_utc": "2026-08-11T12:12:53Z",
+    "head_hash": "c30deafc490e7c41a9946ad6ce880650c381eef4ade2fe06bbf1cd11b997f64f",
+    "head_seq": 1,
+    "method": "github",
+    "ref": "https://github.com/antikythera2026/antikythera-filings/commit/e2b707fd0fb30d7384c536ec9db1c6fb6a38b86c",
+    "note": "public filings repo"
+  },
+  {
+    "anchored_utc": "2026-08-11T12:48:14Z",
+    "head_hash": "28a7c40cf556a5d16ac7a945e61021e736096918f21cab9103f3c0d49206cd31",
+    "head_seq": 4,
+    "method": "ots",
+    "ref": "data\\anchors\\chain-28a7c40cf556.ots",
+    "note": ""
+  }
+]
