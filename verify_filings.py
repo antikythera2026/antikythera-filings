@@ -87,14 +87,19 @@ def main() -> int:
             f = rec["filing"]
             if f.get("kind") != "post":
                 continue
-            url = f"{base}/{f['content_file']}"
-            try:
-                body = urllib.request.urlopen(url, timeout=30).read()
-            except Exception as e:
-                problems.append(f"[seq {f['seq']}] could not fetch {url}: {e}")
-                continue
-            if sha256(body) != f.get("content_sha256"):
-                problems.append(f"[seq {f['seq']}] PUBLISHED DOCUMENT ALTERED: {url} does not match filed SHA-256")
+            # 1.0 posts pin one document (content_file/content_sha256);
+            # 1.1 posts pin a documents list — every one must match.
+            docs = f.get("documents") or [{"file": f["content_file"],
+                                           "sha256": f["content_sha256"]}]
+            for d in docs:
+                url = f"{base}/{d['file']}"
+                try:
+                    body = urllib.request.urlopen(url, timeout=30).read()
+                except Exception as e:
+                    problems.append(f"[seq {f['seq']}] could not fetch {url}: {e}")
+                    continue
+                if sha256(body) != d.get("sha256"):
+                    problems.append(f"[seq {f['seq']}] PUBLISHED DOCUMENT ALTERED: {url} does not match filed SHA-256")
 
     head = chain[-1]["filing_hash"] if chain else GENESIS_PREV
     print(f"filings checked : {len(chain)}")

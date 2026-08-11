@@ -40,8 +40,9 @@ python3 verify_filings.py
 recomputes every filing hash from `chain.json`, checks every `prev_hash` link
 and sequence number, and cross-checks the canonical artefacts in `filings/`
 byte-for-byte. To also confirm the *published documents* match what was filed,
-point it at the live site — it downloads each post and compares the SHA-256 of
-the raw bytes against `content_sha256` in the chain:
+point it at the live site — it downloads every filed document (a post may file
+several: e.g. fundamental, technical and screening outputs for one stock) and
+compares the SHA-256 of the raw bytes against the hash recorded in the chain:
 
 ```
 python3 verify_filings.py --site https://<the-antikythera-domain>
