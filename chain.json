@@ -169,5 +169,32 @@
       "prev_hash": "ee12f45573eb6841440087b36af88b64f6d89522c0bc1134ec1fbb291244d288"
     },
     "filing_hash": "edddee2fa9716694fbf73845cd340211357be0fecb4529f04030cd24307c0291"
+  },
+  {
+    "filing": {
+      "schema": "antikythera-filing/1.1",
+      "kind": "post",
+      "seq": 7,
+      "filed_utc": "2026-08-12T08:16:49Z",
+      "slug": "2026-08-12-the-antikythera-index-predictive-capability-study",
+      "title": "The ANTIKYTHERA Index — Predictive Capability Study",
+      "post_type": "RESEARCH NOTE",
+      "tickers": [],
+      "sector": "Macro",
+      "documents": [
+        {
+          "label": "NOTE",
+          "file": "posts/2026-08-12-the-antikythera-index-predictive-capability-study/note.html",
+          "sha256": "59a4b7e0ef6a373c473cee46655e8910eb1098e0688605509229ce863aa534d7"
+        },
+        {
+          "label": "WORKBOOK",
+          "file": "posts/2026-08-12-the-antikythera-index-predictive-capability-study/workbook.html",
+          "sha256": "30e837080c7396ffd9e5842eeb8fec860a06ee5770afe208352e3a04870679de"
+        }
+      ],
+      "prev_hash": "edddee2fa9716694fbf73845cd340211357be0fecb4529f04030cd24307c0291"
+    },
+    "filing_hash": "495861ddfd8bc18944ee59f3378a241fc0810799a3770f16a847bc84da3c5653"
   }
 ]
