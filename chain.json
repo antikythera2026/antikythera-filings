@@ -138,5 +138,36 @@
       "prev_hash": "28a7c40cf556a5d16ac7a945e61021e736096918f21cab9103f3c0d49206cd31"
     },
     "filing_hash": "ee12f45573eb6841440087b36af88b64f6d89522c0bc1134ec1fbb291244d288"
+  },
+  {
+    "filing": {
+      "schema": "antikythera-filing/1.1",
+      "kind": "post",
+      "seq": 6,
+      "filed_utc": "2026-08-12T00:10:17Z",
+      "slug": "2026-08-12-the-useful-life-of-a-boom",
+      "title": "The Useful Life of a Boom",
+      "post_type": "THESIS",
+      "tickers": [
+        "AMZN",
+        "CRWV",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "NVDA",
+        "ORCL",
+        "TSM"
+      ],
+      "sector": "Multi",
+      "documents": [
+        {
+          "label": "NOTE",
+          "file": "posts/2026-08-12-the-useful-life-of-a-boom/note.html",
+          "sha256": "3a3547215413698a3a7b340aace1f4d080bda7e9d1bc4d83785581958867430e"
+        }
+      ],
+      "prev_hash": "ee12f45573eb6841440087b36af88b64f6d89522c0bc1134ec1fbb291244d288"
+    },
+    "filing_hash": "edddee2fa9716694fbf73845cd340211357be0fecb4529f04030cd24307c0291"
   }
 ]
