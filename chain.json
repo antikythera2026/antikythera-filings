@@ -218,5 +218,27 @@
       "prev_hash": "495861ddfd8bc18944ee59f3378a241fc0810799a3770f16a847bc84da3c5653"
     },
     "filing_hash": "1f12e248c5a24682b1360fbc278c04faeefb49ceb86b8621e758d6329c9e944e"
+  },
+  {
+    "filing": {
+      "schema": "antikythera-filing/1.1",
+      "kind": "post",
+      "seq": 9,
+      "filed_utc": "2026-08-13T11:56:00Z",
+      "slug": "2026-08-13-the-antikythera-index-the-aus-quadrant-playbook",
+      "title": "The ANTIKYTHERA Index — The AUS Quadrant Playbook",
+      "post_type": "RESEARCH NOTE",
+      "tickers": [],
+      "sector": "Macro",
+      "documents": [
+        {
+          "label": "NOTE",
+          "file": "posts/2026-08-13-the-antikythera-index-the-aus-quadrant-playbook/note.html",
+          "sha256": "924891a58b3a03ba5245934006aba50c1f10f7520d8f7bc33605537d318cf562"
+        }
+      ],
+      "prev_hash": "1f12e248c5a24682b1360fbc278c04faeefb49ceb86b8621e758d6329c9e944e"
+    },
+    "filing_hash": "238757e9aad352ee93cf07f0eb573c84856f68771c01940b0b10a540b9a8f05e"
   }
 ]
