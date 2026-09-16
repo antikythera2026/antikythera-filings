@@ -166,5 +166,13 @@
     "method": "ots",
     "ref": "data\\anchors\\chain-0e404273b4b4.ots",
     "note": ""
+  },
+  {
+    "anchored_utc": "2026-09-16T10:31:13Z",
+    "head_hash": "0e404273b4b4525026809f76b6cabc9f4e269b7fa69cb71f461321b45a5f8398",
+    "head_seq": 13,
+    "method": "github",
+    "ref": "https://github.com/antikythera2026/antikythera-filings/commit/3e100b0e1e33703d16a37ca135554bd5c92d39e3",
+    "note": "public filings repo"
   }
 ]
