@@ -510,5 +510,29 @@
       "prev_hash": "7b6aab63e5e5a8ff6ac49bc64f1b86374d56696c11999d4108673eacc98b70d9"
     },
     "filing_hash": "ea185f9dcd07cfb76d1156fd499677c5294e9ad75ef8a1af7e3b17a8e557c9ac"
+  },
+  {
+    "filing": {
+      "schema": "antikythera-filing/1.1",
+      "kind": "post",
+      "seq": 13,
+      "filed_utc": "2026-09-16T10:27:27Z",
+      "slug": "2026-09-16-everything-is-against-rea-that-is-the-setup",
+      "title": "Everything is against REA. That is the setup.",
+      "post_type": "THESIS",
+      "tickers": [
+        "REA"
+      ],
+      "sector": "Online Classifieds",
+      "documents": [
+        {
+          "label": "NOTE",
+          "file": "posts/2026-09-16-everything-is-against-rea-that-is-the-setup/note.html",
+          "sha256": "7dffe0a1f558c88f36efba3147c90cce7477a07eb7ce13abffa7e5c8b74e1e52"
+        }
+      ],
+      "prev_hash": "ea185f9dcd07cfb76d1156fd499677c5294e9ad75ef8a1af7e3b17a8e557c9ac"
+    },
+    "filing_hash": "0e404273b4b4525026809f76b6cabc9f4e269b7fa69cb71f461321b45a5f8398"
   }
 ]
