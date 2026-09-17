@@ -534,5 +534,82 @@
       "prev_hash": "ea185f9dcd07cfb76d1156fd499677c5294e9ad75ef8a1af7e3b17a8e557c9ac"
     },
     "filing_hash": "0e404273b4b4525026809f76b6cabc9f4e269b7fa69cb71f461321b45a5f8398"
+  },
+  {
+    "filing": {
+      "schema": "antikythera-filing/1.1",
+      "kind": "post",
+      "seq": 14,
+      "filed_utc": "2026-09-17T00:20:46Z",
+      "slug": "2026-09-17-the-antikythera-high-conviction-au-equity-portfolio",
+      "title": "The ANTIKYTHERA High Conviction AU Equity Portfolio",
+      "post_type": "PORTFOLIO",
+      "tickers": [
+        "APE",
+        "BHP",
+        "CVL",
+        "EDU",
+        "EQR",
+        "ING",
+        "NEM",
+        "REA",
+        "RMD",
+        "SGH",
+        "SGM",
+        "SIG",
+        "TLS",
+        "WDS"
+      ],
+      "sector": "Multi",
+      "documents": [
+        {
+          "label": "PORTFOLIO",
+          "file": "posts/2026-09-17-the-antikythera-high-conviction-au-equity-portfolio/portfolio.html",
+          "sha256": "5bf7cef0c1ede0a65e65e6626dd78044867c817f9b10f64fc05f0688bcbfa67f"
+        }
+      ],
+      "prev_hash": "0e404273b4b4525026809f76b6cabc9f4e269b7fa69cb71f461321b45a5f8398"
+    },
+    "filing_hash": "6a011d1b5210823ba33fc89bf9cd19f978439d185f2ac67e6a4b16547de1801b"
+  },
+  {
+    "filing": {
+      "schema": "antikythera-filing/1.1",
+      "kind": "post",
+      "seq": 15,
+      "filed_utc": "2026-09-17T00:20:52Z",
+      "slug": "2026-09-17-the-antikythera-high-conviction-global-equity-portfolio",
+      "title": "The ANTIKYTHERA High Conviction Global Equity Portfolio",
+      "post_type": "PORTFOLIO",
+      "tickers": [
+        "0700",
+        "BABA",
+        "CCJ",
+        "CRM",
+        "CSU",
+        "IOT",
+        "LLY",
+        "MELI",
+        "NET",
+        "NVDA",
+        "PLTR",
+        "RACE",
+        "RHM",
+        "SIE",
+        "SNOW",
+        "SPOT",
+        "UBER"
+      ],
+      "sector": "Multi",
+      "documents": [
+        {
+          "label": "PORTFOLIO",
+          "file": "posts/2026-09-17-the-antikythera-high-conviction-global-equity-portfolio/portfolio.html",
+          "sha256": "7fe7ebc849a03fce126115ff8f15907510add3524bf2924d85c10c308be0e8ff"
+        }
+      ],
+      "prev_hash": "6a011d1b5210823ba33fc89bf9cd19f978439d185f2ac67e6a4b16547de1801b"
+    },
+    "filing_hash": "697c449c82201a92e144c646709a7d28966cb462d5bb333936c6d27b9775a8c1"
   }
 ]
