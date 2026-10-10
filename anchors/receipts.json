@@ -198,5 +198,13 @@
     "method": "github",
     "ref": "https://github.com/antikythera2026/antikythera-filings/commit/9cfce1c77b780e64372fcb1274e2fa8f814c4853",
     "note": "public filings repo"
+  },
+  {
+    "anchored_utc": "2026-10-10T05:42:44Z",
+    "head_hash": "1702a17c21ec1db56b908676a40553f53b71b721624b70a5341f44127c008066",
+    "head_seq": 16,
+    "method": "ots",
+    "ref": "data\\anchors\\chain-1702a17c21ec.ots",
+    "note": ""
   }
 ]

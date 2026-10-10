@@ -611,5 +611,43 @@
       "prev_hash": "6a011d1b5210823ba33fc89bf9cd19f978439d185f2ac67e6a4b16547de1801b"
     },
     "filing_hash": "697c449c82201a92e144c646709a7d28966cb462d5bb333936c6d27b9775a8c1"
+  },
+  {
+    "filing": {
+      "schema": "antikythera-filing/1.1",
+      "kind": "post",
+      "seq": 16,
+      "filed_utc": "2026-10-10T05:42:31Z",
+      "slug": "2026-10-10-the-antikythera-high-conviction-au-equity-portfolio",
+      "title": "The ANTIKYTHERA High Conviction AU Equity Portfolio",
+      "post_type": "PORTFOLIO",
+      "tickers": [
+        "APE",
+        "BHP",
+        "CVL",
+        "EDU",
+        "EQR",
+        "GMG",
+        "ING",
+        "NEM",
+        "REA",
+        "RMD",
+        "SGH",
+        "SGM",
+        "SIG",
+        "TLS",
+        "WDS"
+      ],
+      "sector": "Multi",
+      "documents": [
+        {
+          "label": "PORTFOLIO",
+          "file": "posts/2026-10-10-the-antikythera-high-conviction-au-equity-portfolio/portfolio.html",
+          "sha256": "a1c0cd4c1c1b26dab477ebe57bfd9ee70e6a94baf8d31971de463f2fb862044e"
+        }
+      ],
+      "prev_hash": "697c449c82201a92e144c646709a7d28966cb462d5bb333936c6d27b9775a8c1"
+    },
+    "filing_hash": "1702a17c21ec1db56b908676a40553f53b71b721624b70a5341f44127c008066"
   }
 ]
