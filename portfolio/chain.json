@@ -1,0 +1,170 @@
+[
+  {
+    "seq": 1,
+    "kind": "deposit",
+    "hash": "0e47ff88563eb8611cdb273d754bc72892197b564ecefecb4e054571a1722190",
+    "file": "0001-deposit-0e47ff88563e.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-15T14:37:17Z"
+  },
+  {
+    "seq": 2,
+    "kind": "trade",
+    "hash": "62f8495d83754896f38a66efc1c00f55835e7f6328174bc868dc25b837b72d82",
+    "file": "0002-trade-62f8495d8375.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T04:20:10Z"
+  },
+  {
+    "seq": 3,
+    "kind": "trade",
+    "hash": "2fa3ac2e2058d2f9accc5ebb1c1a70e4ed73e75610f3163e4c15f537f1adf9df",
+    "file": "0003-trade-2fa3ac2e2058.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T04:22:09Z"
+  },
+  {
+    "seq": 4,
+    "kind": "trade",
+    "hash": "f7eb714b3ccce50cd1229ee626a041b4bb52ff76066a5d848cf82810639eb22e",
+    "file": "0004-trade-f7eb714b3ccc.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T04:24:13Z"
+  },
+  {
+    "seq": 5,
+    "kind": "trade",
+    "hash": "31e417d33c90de43c339671bbcc0705b6f32230ffc588402889684d31e765ea2",
+    "file": "0005-trade-31e417d33c90.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T04:29:13Z"
+  },
+  {
+    "seq": 6,
+    "kind": "trade",
+    "hash": "2ef42833644e03be6ae3686dce57ae8c9218bfb5f0681cc8a1ba289df0149566",
+    "file": "0006-trade-2ef42833644e.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T04:31:08Z"
+  },
+  {
+    "seq": 7,
+    "kind": "trade",
+    "hash": "2b520c0fe671d0d636f41d398ea6bec787bb0e6017c4f5fe9537d1813a931b24",
+    "file": "0007-trade-2b520c0fe671.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T04:52:14Z"
+  },
+  {
+    "seq": 8,
+    "kind": "trade",
+    "hash": "9376c7e963e43d0eaa3001f64d76f68f815e452f47243b723195c6d0a2370e28",
+    "file": "0008-trade-9376c7e963e4.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T05:02:02Z"
+  },
+  {
+    "seq": 9,
+    "kind": "trade",
+    "hash": "f437b1b834dfd2e5ab6c694d1929e6e1a9e2fb081b9b47aa70384576989378d5",
+    "file": "0009-trade-f437b1b834df.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T05:07:56Z"
+  },
+  {
+    "seq": 10,
+    "kind": "trade",
+    "hash": "7b9dc7ebfff6cc8b77d78bb719f22c0673175764cbb142749ec468637db3bc7e",
+    "file": "0010-trade-7b9dc7ebfff6.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T05:09:18Z"
+  },
+  {
+    "seq": 11,
+    "kind": "trade",
+    "hash": "e88398601b40ad9dd10543793852f73f61f2bd659a69343b54ca9573c4ccbeed",
+    "file": "0011-trade-e88398601b40.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T14:00:52Z"
+  },
+  {
+    "seq": 12,
+    "kind": "trade",
+    "hash": "e6cef64a997557610a9eecb4e61fd730fcb5413f71d46df98b8703e6f87fb9d9",
+    "file": "0012-trade-e6cef64a9975.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T14:02:27Z"
+  },
+  {
+    "seq": 13,
+    "kind": "trade",
+    "hash": "902165d2ea6744c6b8810b7e4cd266dcaad0120d810522c1769fc2cca51771b9",
+    "file": "0013-trade-902165d2ea67.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T14:03:24Z"
+  },
+  {
+    "seq": 14,
+    "kind": "trade",
+    "hash": "87061d0736f13bf796cbcd1d9977e222d15b40523ead667b3b6f63b9f6b17223",
+    "file": "0014-trade-87061d0736f1.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T14:04:09Z"
+  },
+  {
+    "seq": 15,
+    "kind": "trade",
+    "hash": "34b048c28bac4eb2433c36a8be4402fae356b1ed255d70b7e389a25eda4b9d39",
+    "file": "0015-trade-34b048c28bac.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T14:04:47Z"
+  },
+  {
+    "seq": 16,
+    "kind": "trade",
+    "hash": "7dd10ed92aa701c7225458c65c31f6052de541a08b80e3d8d99a4c9f9e030daa",
+    "file": "0016-trade-7dd10ed92aa7.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T14:05:20Z"
+  },
+  {
+    "seq": 17,
+    "kind": "trade",
+    "hash": "f7e0a1d6e12137b0dcb5202664ba0125c71bfc7ab8b7b36702ea849bf8dec866",
+    "file": "0017-trade-f7e0a1d6e121.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T14:06:00Z"
+  },
+  {
+    "seq": 18,
+    "kind": "trade",
+    "hash": "9b7b17a164883f3ed49b44d4aa659f47ab5a809a91715dba9e35eb10b76597c6",
+    "file": "0018-trade-9b7b17a16488.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T14:06:34Z"
+  },
+  {
+    "seq": 19,
+    "kind": "trade",
+    "hash": "dcf8269ba65190b0b558104220a993a2c5d6bd36695e57c205a847b892c7846d",
+    "file": "0019-trade-dcf8269ba651.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T14:07:36Z"
+  },
+  {
+    "seq": 20,
+    "kind": "trade",
+    "hash": "5b44fc8f8bcc48b62a6ffeb434fa1859c52f5dd8fb96a585c2118ae503eaa754",
+    "file": "0020-trade-5b44fc8f8bcc.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T14:08:33Z"
+  },
+  {
+    "seq": 21,
+    "kind": "trade",
+    "hash": "bb23ddab82b58c2cafd269f8d0d7bcc7a922ca9a8fc637f3cc7cbe035e047c98",
+    "file": "0021-trade-bb23ddab82b5.json",
+    "effective": "2026-10-16",
+    "recorded_utc": "2026-10-16T14:09:05Z"
+  }
+]

@@ -60,3 +60,32 @@ is yours; the record just makes it honest.
 
 Nothing here is financial advice. Filings are evidence of what was said and
 when — not recommendations.
+
+<!-- portfolio-ledger -->
+## The portfolio ledger (`portfolio/`)
+
+The ANTIKYTHERA Portfolio keeps a hash chain of its own, separate from the
+filing chain above: every deposit, trade, dividend and interest credit,
+correction, corporate action and monthly report is one record, written as
+canonical JSON, hashed with SHA-256 and chained to the record before it.
+Trades, deposits, corrections, corporate actions and reports carry their own
+OpenTimestamps proof (`records/*.json.ots`); dividend and interest credits are
+covered by the next stamped record. The folder is mirrored here from the site
+every week, append-only, so this repository's history timestamps every trade
+publicly as well.
+
+| Path | Contents |
+|---|---|
+| `portfolio/chain.json` | Every record in order, with its SHA-256 |
+| `portfolio/records/` | One canonical record per file, and its `.ots` proof |
+| `portfolio/reports/` | The saved monthly reports each report record pins by SHA-256 |
+| `portfolio/anchors.json` | The portfolio app's notes on each proof (informational) |
+| `portfolio/verify.py` | Standalone checker, Python 3 standard library only |
+
+```
+python3 portfolio/verify.py            # every hash, link, proof digest and report file
+python3 portfolio/verify.py --online   # also confirms each proof's Bitcoin block (pip install opentimestamps)
+```
+
+The same ledger, and a check that runs in your browser, is on the site's
+Verify page.

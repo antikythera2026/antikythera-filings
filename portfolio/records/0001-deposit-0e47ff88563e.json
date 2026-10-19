@@ -1,0 +1,1 @@
+{"body":{"amount_aud":100000.0,"base_currency":"AUD","description":"Opening deposit","inception":true},"effective":"2026-10-16","kind":"deposit","prev_hash":"0000000000000000000000000000000000000000000000000000000000000000","recorded_utc":"2026-10-15T14:37:17Z","salt":"78a564d41155ad22babc00fa1e0b824f","schema":"antikythera-ledger/1.0","seq":1}
