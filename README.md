@@ -48,8 +48,15 @@ compares the SHA-256 of the raw bytes against the hash recorded in the chain:
 python3 verify_filings.py --site https://<the-antikythera-domain>
 ```
 
-Exit code 0 = intact. Non-zero = evidence of tampering, with every problem
-printed.
+A document the site has withdrawn from public view (archived, or filed in
+error) is not served: its address redirects to the Research page. The
+verifier lists it as *withheld* rather than checking it; its hash stays in the
+chain. A served document whose bytes differ from the filing is always a
+failure.
+
+Exit code 0 = intact. 1 = evidence of tampering, with every problem printed.
+2 = the check could not be completed (for example, a document could not be
+downloaded) — not evidence either way.
 
 ## What this proves — and what it doesn't
 
