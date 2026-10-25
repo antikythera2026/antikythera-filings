@@ -649,5 +649,39 @@
       "prev_hash": "697c449c82201a92e144c646709a7d28966cb462d5bb333936c6d27b9775a8c1"
     },
     "filing_hash": "1702a17c21ec1db56b908676a40553f53b71b721624b70a5341f44127c008066"
+  },
+  {
+    "filing": {
+      "schema": "antikythera-filing/1.1",
+      "kind": "post",
+      "seq": 17,
+      "filed_utc": "2026-10-25T11:03:35Z",
+      "slug": "2026-10-25-cloudflare-net-we-are-buying-the-multiple-is-the-risk",
+      "title": "Cloudflare (NET): we are buying; the multiple is the risk",
+      "post_type": "THESIS",
+      "tickers": [
+        "NET"
+      ],
+      "sector": "Internet Infrastructure",
+      "documents": [
+        {
+          "label": "NOTE",
+          "file": "posts/2026-10-25-cloudflare-net-we-are-buying-the-multiple-is-the-risk/note.html",
+          "sha256": "ffb0e0b3dc626bf832fd6d5558a83fa9963764a15964259db6c4512f041a5992"
+        },
+        {
+          "label": "FIFTY",
+          "file": "posts/2026-10-25-cloudflare-net-we-are-buying-the-multiple-is-the-risk/fifty.html",
+          "sha256": "9b54e6f5d3e286d64f3d09c0284c67f7fab49e6dcc79148f6129b79c9b54a2cc"
+        },
+        {
+          "label": "TAYLOR",
+          "file": "posts/2026-10-25-cloudflare-net-we-are-buying-the-multiple-is-the-risk/taylor.html",
+          "sha256": "ddfad25154f651a1e58e17286b8de42eddb10b6832c9c08a7245cc7a4f101455"
+        }
+      ],
+      "prev_hash": "1702a17c21ec1db56b908676a40553f53b71b721624b70a5341f44127c008066"
+    },
+    "filing_hash": "586c2dedae5d452769bd458a7ba455ecea8e5d440d42e5d23578fe5a5ed71b42"
   }
 ]
