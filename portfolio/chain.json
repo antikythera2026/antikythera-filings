@@ -166,5 +166,45 @@
     "file": "0021-trade-bb23ddab82b5.json",
     "effective": "2026-10-16",
     "recorded_utc": "2026-10-16T14:09:05Z"
+  },
+  {
+    "seq": 22,
+    "kind": "trade",
+    "hash": "3846007490a7bbd010bb787342873f7be66bb89c7e3085b97e59695bfbae11a6",
+    "file": "0022-trade-3846007490a7.json",
+    "effective": "2026-10-19",
+    "recorded_utc": "2026-10-19T13:58:55Z"
+  },
+  {
+    "seq": 23,
+    "kind": "trade",
+    "hash": "06dfa976d32ea01ef935560af7b1b90281d9a41b7271b01de2ded58a607e6204",
+    "file": "0023-trade-06dfa976d32e.json",
+    "effective": "2026-10-19",
+    "recorded_utc": "2026-10-19T14:01:26Z"
+  },
+  {
+    "seq": 24,
+    "kind": "trade",
+    "hash": "9b37cd2b15a30695368ab46b794a2fc407b8819a8b705439a0c761b53d08e101",
+    "file": "0024-trade-9b37cd2b15a3.json",
+    "effective": "2026-10-19",
+    "recorded_utc": "2026-10-19T14:02:32Z"
+  },
+  {
+    "seq": 25,
+    "kind": "trade",
+    "hash": "cb68775a4719dbf502fdc7a939feb4c411ecaf72ec28b0be40e069116aa124f6",
+    "file": "0025-trade-cb68775a4719.json",
+    "effective": "2026-10-20",
+    "recorded_utc": "2026-10-20T05:01:09Z"
+  },
+  {
+    "seq": 26,
+    "kind": "trade",
+    "hash": "85b457964baf2a424e803f68f803a5c2cfe1b150aa51d4c93b7698d8d68739e8",
+    "file": "0026-trade-85b457964baf.json",
+    "effective": "2026-10-20",
+    "recorded_utc": "2026-10-20T05:01:55Z"
   }
 ]
