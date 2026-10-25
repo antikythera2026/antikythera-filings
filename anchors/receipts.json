@@ -222,5 +222,13 @@
     "method": "ots",
     "ref": "data\\anchors\\chain-586c2dedae5d.ots",
     "note": ""
+  },
+  {
+    "anchored_utc": "2026-10-25T11:04:39Z",
+    "head_hash": "586c2dedae5d452769bd458a7ba455ecea8e5d440d42e5d23578fe5a5ed71b42",
+    "head_seq": 17,
+    "method": "github",
+    "ref": "https://github.com/antikythera2026/antikythera-filings/commit/270d98fbb1985ecfd2f9b91faa554cebc918fd92",
+    "note": "public filings repo"
   }
 ]
