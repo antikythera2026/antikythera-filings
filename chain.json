@@ -721,5 +721,53 @@
       "prev_hash": "586c2dedae5d452769bd458a7ba455ecea8e5d440d42e5d23578fe5a5ed71b42"
     },
     "filing_hash": "0ba03c74afa678a10d67d862672afd5a4b0dbf3cd136d0075eaeec1890c6500c"
+  },
+  {
+    "filing": {
+      "schema": "antikythera-filing/1.1",
+      "kind": "post",
+      "seq": 19,
+      "filed_utc": "2026-10-27T05:16:59Z",
+      "slug": "2026-10-27-i-was-wrong-about-the-chips-the-builders-still-carry-the-risk",
+      "title": "I was wrong about the chips. The builders still carry the risk.",
+      "post_type": "THESIS",
+      "tickers": [
+        "AMZN",
+        "ASML",
+        "BABA",
+        "BHP",
+        "CRWV",
+        "CSU",
+        "ELT",
+        "EQR",
+        "GMG",
+        "GOOGL",
+        "IOT",
+        "LLY",
+        "MELI",
+        "META",
+        "MSFT",
+        "NET",
+        "NVDA",
+        "ORCL",
+        "PLTR",
+        "SGM",
+        "SIE",
+        "SPOT",
+        "TLS",
+        "TSM",
+        "UBER"
+      ],
+      "sector": "AI Infrastructure",
+      "documents": [
+        {
+          "label": "NOTE",
+          "file": "posts/2026-10-27-i-was-wrong-about-the-chips-the-builders-still-carry-the-risk/note.html",
+          "sha256": "db8f9e390694bec35c1d79c7ea4a5f7e4253f84964620507eec1d82e7e3b8fb9"
+        }
+      ],
+      "prev_hash": "0ba03c74afa678a10d67d862672afd5a4b0dbf3cd136d0075eaeec1890c6500c"
+    },
+    "filing_hash": "1f69b7634f0b710dfa7c5ceee2d7aad0a58aa51c5e658a79cea8efb1bdc4e187"
   }
 ]
