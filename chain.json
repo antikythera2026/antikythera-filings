@@ -683,5 +683,43 @@
       "prev_hash": "1702a17c21ec1db56b908676a40553f53b71b721624b70a5341f44127c008066"
     },
     "filing_hash": "586c2dedae5d452769bd458a7ba455ecea8e5d440d42e5d23578fe5a5ed71b42"
+  },
+  {
+    "filing": {
+      "schema": "antikythera-filing/1.1",
+      "kind": "post",
+      "seq": 18,
+      "filed_utc": "2026-10-27T02:02:36Z",
+      "slug": "2026-10-27-compute-rv-gpu-residual-value-index-print-2026-10-27",
+      "title": "COMPUTE-RV — GPU residual value index — print 2026-10-27",
+      "post_type": "INDEX PRINT",
+      "tickers": [
+        "AMZN",
+        "BX",
+        "CRWV",
+        "GOOGL",
+        "IREN",
+        "META",
+        "MSFT",
+        "NBIS",
+        "NVDA",
+        "ORCL"
+      ],
+      "sector": "AI Infrastructure",
+      "documents": [
+        {
+          "label": "REPORT",
+          "file": "posts/2026-10-27-compute-rv-gpu-residual-value-index-print-2026-10-27/report.html",
+          "sha256": "a9adc3f3f8b157e499e641475f670047ef938e755a12910ca106c68eabaf519e"
+        },
+        {
+          "label": "DATA",
+          "file": "posts/2026-10-27-compute-rv-gpu-residual-value-index-print-2026-10-27/data.html",
+          "sha256": "d037004cf787ca9e2eb08866eb34b49ff4d51e14d5037a898ecfb20fdd9c1dd2"
+        }
+      ],
+      "prev_hash": "586c2dedae5d452769bd458a7ba455ecea8e5d440d42e5d23578fe5a5ed71b42"
+    },
+    "filing_hash": "0ba03c74afa678a10d67d862672afd5a4b0dbf3cd136d0075eaeec1890c6500c"
   }
 ]
