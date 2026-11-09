@@ -1,7 +1,8 @@
 ANTIKYTHERA LEDGER
 
 Each file in records/ is one event in the portfolio's life: the opening deposit, a trade, a dividend
-or interest credit, a corporate action, a correction, a saved monthly report. A record is a fixed set
+or interest credit, a corporate action, a correction, a limit order placed or cancelled (its fill is a
+trade record that names the order), a saved monthly report. A record is a fixed set
 of eight fields written as canonical JSON (UTF-8, keys sorted, no spaces, one line feed). Its SHA-256
 is the record hash; the first 12 characters of that hash are in the file name. chain.json lists the
 records in order.
@@ -27,3 +28,7 @@ To check without the app:
   With --online and the opentimestamps package it also confirms each Bitcoin attestation.
 
 Do not edit anything in this folder: a changed byte breaks the hash, and the proof with it.
+
+Report files in this bundle (hardening 2026-10-26): annual tax statements and monthly reports are not
+published. Their report records, each naming the report's SHA-256, are here and in the chain; the files
+stay with the owner. withheld.json lists each one left out. verify.py notes them as not in this bundle.

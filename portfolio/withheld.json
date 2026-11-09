@@ -1,0 +1,10 @@
+[
+  {
+    "seq": 34,
+    "kind": "monthly",
+    "period": "2026-10",
+    "file": "2026-10/ANTIKYTHERA-Monthly-2026-10-v1.html",
+    "sha256": "57dee1b19af292c7a7201d9b37d51144706907cccdcde26c83344f1ec2ba8f01",
+    "reason": "monthly report (holds the Tax (FYTD) section, which cannot be stripped without breaking its SHA-256)"
+  }
+]
