@@ -611,5 +611,73 @@
     "explorer": "https://blockstream.info/api",
     "merkle_ok": true,
     "block_time_utc": "2026-11-09T14:35:31Z"
+  },
+  "38": {
+    "stamped_utc": "2026-11-10T13:21:01Z",
+    "calendars": [
+      "https://a.pool.opentimestamps.org",
+      "https://b.pool.opentimestamps.org",
+      "https://a.pool.eternitywall.com",
+      "https://ots.btc.catallaxy.com"
+    ],
+    "errors": {},
+    "status": "confirmed",
+    "checked_utc": "2026-11-11T13:59:35Z",
+    "height": 975308,
+    "block_hash": "00000000000000000001cb57607f0f8698c5358c0a416bdf2b4b4cc6bc05f05a",
+    "explorer": "https://blockstream.info/api",
+    "merkle_ok": true,
+    "block_time_utc": "2026-11-10T14:41:27Z"
+  },
+  "39": {
+    "stamped_utc": "2026-11-11T13:58:03Z",
+    "calendars": [
+      "https://a.pool.opentimestamps.org",
+      "https://b.pool.opentimestamps.org",
+      "https://a.pool.eternitywall.com",
+      "https://ots.btc.catallaxy.com"
+    ],
+    "errors": {},
+    "status": "confirmed",
+    "checked_utc": "2026-11-11T15:30:13Z",
+    "height": 975445,
+    "block_hash": "0000000000000000000119a64fa12ee1768db3f7006e69f6da2ce6bd2432af50",
+    "explorer": "https://blockstream.info/api",
+    "merkle_ok": true,
+    "block_time_utc": "2026-11-11T14:26:18Z"
+  },
+  "40": {
+    "stamped_utc": "2026-11-11T13:59:46Z",
+    "calendars": [
+      "https://a.pool.opentimestamps.org",
+      "https://b.pool.opentimestamps.org",
+      "https://a.pool.eternitywall.com",
+      "https://ots.btc.catallaxy.com"
+    ],
+    "errors": {},
+    "status": "confirmed",
+    "checked_utc": "2026-11-11T15:30:17Z",
+    "height": 975445,
+    "block_hash": "0000000000000000000119a64fa12ee1768db3f7006e69f6da2ce6bd2432af50",
+    "explorer": "https://blockstream.info/api",
+    "merkle_ok": true,
+    "block_time_utc": "2026-11-11T14:26:18Z"
+  },
+  "41": {
+    "stamped_utc": "2026-11-11T14:32:58Z",
+    "calendars": [
+      "https://a.pool.opentimestamps.org",
+      "https://b.pool.opentimestamps.org",
+      "https://a.pool.eternitywall.com",
+      "https://ots.btc.catallaxy.com"
+    ],
+    "errors": {},
+    "status": "confirmed",
+    "checked_utc": "2026-11-12T10:57:08Z",
+    "height": 975458,
+    "block_hash": "00000000000000000000f9ecaff2000a3ef56bcec68bf3ebb69bb31a740c6a2c",
+    "explorer": "https://blockstream.info/api",
+    "merkle_ok": true,
+    "block_time_utc": "2026-11-11T17:41:30Z"
   }
 }
