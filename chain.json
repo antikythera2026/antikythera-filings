@@ -769,5 +769,27 @@
       "prev_hash": "0ba03c74afa678a10d67d862672afd5a4b0dbf3cd136d0075eaeec1890c6500c"
     },
     "filing_hash": "1f69b7634f0b710dfa7c5ceee2d7aad0a58aa51c5e658a79cea8efb1bdc4e187"
+  },
+  {
+    "filing": {
+      "schema": "antikythera-filing/1.1",
+      "kind": "post",
+      "seq": 20,
+      "filed_utc": "2026-11-12T10:55:34Z",
+      "slug": "2026-11-12-the-age-of-the-knowledge-engineer",
+      "title": "The age of the knowledge engineer",
+      "post_type": "THESIS",
+      "tickers": [],
+      "sector": "AI Software",
+      "documents": [
+        {
+          "label": "NOTE",
+          "file": "posts/2026-11-12-the-age-of-the-knowledge-engineer/note.html",
+          "sha256": "3d852564a4057042e2a4d82005502486fc6d455f21f3cc830cb6c52d09971596"
+        }
+      ],
+      "prev_hash": "1f69b7634f0b710dfa7c5ceee2d7aad0a58aa51c5e658a79cea8efb1bdc4e187"
+    },
+    "filing_hash": "49cb506259124dd789c2dbaac54762c3f2e9f979a3896ba132fb96a6eb34bb0d"
   }
 ]
